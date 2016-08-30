@@ -16,7 +16,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/sf-wdi-31/express-routes-training.git"
+    "url": "git+https://github.com/sf-wdi-31/express-routes-training.git"
   },
   "bugs": {
     "url": "https://github.com/sf-wdi-31/express-routes-training/issues"
